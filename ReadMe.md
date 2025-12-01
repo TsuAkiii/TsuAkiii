@@ -1,21 +1,49 @@
-# 💫 About Me:
-<br>I am an application development student.<br>Junior front-end developer<br>Piano, anime and manga is my passion
+# Hi there, I'm Neve Thierry (TsuAkiii) 👋
 
+**Fullstack Developer | Angular & .NET/Java Ecosystems | 3D Web Enthusiast**
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Tsuyoshi#2473) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/TsuAkiii) 
+[![Linkedin](https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.linkedin.com/in/thierry-neve/)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Tsuyoshi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Tsuyoshi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsuyoshi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 🚀 About Me
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+I am a Versatile Developer capable of building complete web solutions, from high-performance Front-End to robust Back-End architectures.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🔭 I’m currently pushing the limits of **Angular 18 & 3D Web**.
+- 🛠️ **Back-End:** Proficient in building scalable APIs with **Spring Boot** and **.NET**.
+- 🎨 **Front-End:** Specialist in reactive architectures using **Signals, RxJS, and NGT**.
+- 💼 Open to **Fullstack or Front-End** roles.
+
+---
+
+### 🛠️ Tech Stack
+
+**Front-End & 3D**
+
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+
+**Back-End & Architecture**
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### 🏆 Featured Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[Nebula Configurator 🌌](https://github.com/TsuAkiii/Nebula-Configurator)** [![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-black?style=flat&logo=vercel&logoColor=white)](https://nebula-configurator.vercel.app/) | **High-performance 3D configurator.** Features Zone.js bypass, Angular Signals, and GSAP animations. | `Angular 18` `Three.js` |
+| **[Connect](https://github.com/TsuAkiii/connect)** | **Modern Contact Management SPA.** A professional-grade component architecture mimicking a CRM. | `Angular` `SPA` |
+| **[Task Manager](https://github.com/TsuAkiii/task-manager)** | **Reactive Productivity Engine.** CRUD operations with strict state management (RxJS). | `Angular` `RxJS` |
+
+---
+
