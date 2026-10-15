@@ -52,3 +52,11 @@ My SaaS project for turning videos into content for social platforms. It uses ba
 Outside of work, I mess around with game development and 3D interfaces. Sometimes I spend longer adjusting the UI than writing the feature.
 
 If you're hiring a developer in Belgium, feel free to [get in touch](https://www.linkedin.com/in/thierry-neve/).
+
+---
+
+## One last thing
+
+For anyone who actually scrolled this far:
+
+[![A little bonus](https://img.youtube.com/vi/dQw4w9WgXcQ/mqdefault.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
